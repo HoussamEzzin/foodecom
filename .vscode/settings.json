@@ -1,0 +1,10 @@
+{
+    "angular2-switcher.specFormats": [
+    
+        ".spec.ts",
+        ".stories.ts"
+    ],
+    "angular.enable-strict-mode-prompt": true,
+    "angular.view-engine": false,
+    "html.validate.styles": false
+}

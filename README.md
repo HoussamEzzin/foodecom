@@ -1,0 +1,1 @@
+E-commerce (Food) Application created by using Angular and Node.
