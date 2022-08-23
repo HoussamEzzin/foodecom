@@ -19,7 +19,7 @@ export class HomeComponent implements OnInit {
         this.foods = this.foodService.getAllFoodsByTag(params['tag']);
       else
         this.foods = foodService.getAll();
-    })
+    }, (err)=>console.log(err))
    }
 
   ngOnInit(): void {
